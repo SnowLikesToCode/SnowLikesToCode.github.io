@@ -3,29 +3,27 @@ experience:
     role: "Apprenticeship - Cloud Security Work"
     period: "2025 - 2026"
     location: "Switzerland"
-    description: "Cortex Cloud Configuration"
+    description: "Cortex Cloud Configuration and Work in AWS, AWS Certificates."
     highlights:
-      - "docker"
-      - "To be filled"
-      - "To be filled"
 
   - company: "Swisscom"
-    role: "Apprenticeship - Year 2"
-    period: "2023 - 2024"
-    location: "Switzerland"
-    description: "Second year of apprenticeship program. [Fill in your specific details and achievements]"
-    highlights:
-      - "To be filled"
-      - "To be filled"
-      - "To be filled"
-
-  - company: "Swisscom"
-    role: "Apprenticeship - Year 3"
+    role: "Apprenticeship - Application Monitoring with CheckMK"
     period: "2024 - 2025"
     location: "Switzerland"
-    description: "Third year of apprenticeship program. [Fill in your specific details and achievements]"
+    description: "Using CheckMK we Installed Agents and Configured Monitoring Rules."
     highlights:
-      - "To be filled"
-      - "To be filled"
-      - "To be filled"
+
+  - company: "Swisscom"
+    role: "Apprenticeship - ICT - Bootcamp"
+    period: "2024 - 2024"
+    location: "Switzerland"
+    description: "Using CheckMK we Installed Agents and Configured Monitoring Rules."
+    highlights:
+
+      - company: "Swisscom"
+    role: "Apprenticeship - Work with LLM"
+    period: "2023 - 2024"
+    location: "Switzerland"
+    description: "Working with LLAMA to create basic QUERY search LLM"
+    highlights:
 
