@@ -1,7 +1,9 @@
 author:
   name: "Nicola"
   location: "Switzerland"
-  description: "21-year-old 4th year Betriebsinformatiker Apprentice at Swisscom. Passionate about coding and sports. Focused on IT security and software development."
+  description: "21-year-old 4th year Betriebsinformatiker Apprentice at Swisscom. 
+                Passionate about coding and sports. 
+                Focused on IT security and software development."
   profile_image: "/images/profile.jpg"
   email: "nicola@example.com"
   github: "https://github.com/SnowLikesToCode"
