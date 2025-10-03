@@ -20,10 +20,16 @@ experience:
     description: "Using CheckMK we Installed Agents and Configured Monitoring Rules."
     highlights:
 
-      - company: "Swisscom"
+  - company: "Swisscom"
     role: "Apprenticeship - Work with LLM"
     period: "2023 - 2024"
     location: "Switzerland"
     description: "Working with LLAMA to create basic QUERY search LLM"
     highlights:
-
+    
+  - company: "Swisscom"
+    role: "Apprenticeship - Start to End."
+    period: "2022 - 2025"
+    location: "Switzerland"
+    description: "Swisscom Apprenticeship for 4 years, Business-Informatics Professional"
+    highlights:
