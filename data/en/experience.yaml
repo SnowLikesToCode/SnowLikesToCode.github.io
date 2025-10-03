@@ -1,0 +1,49 @@
+experience:
+  - company: "Tech Innovations Inc"
+    role: "Senior Software Engineer"
+    period: "Jan 2023 - Present"
+    location: "San Francisco, CA"
+    description: "Leading development of cloud-native applications and microservices architecture. Mentoring junior developers and implementing best practices for CI/CD pipelines."
+    technologies:
+      - "Go"
+      - "Kubernetes"
+      - "AWS"
+      - "Docker"
+      - "PostgreSQL"
+    highlights:
+      - "Reduced deployment time by 60% through automated CI/CD pipelines"
+      - "Led migration of monolithic application to microservices architecture"
+      - "Mentored team of 5 junior developers"
+
+  - company: "StartupHub Solutions"
+    role: "Full Stack Developer"
+    period: "Mar 2021 - Dec 2022"
+    location: "Remote"
+    description: "Developed and maintained web applications using modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality products."
+    technologies:
+      - "React"
+      - "Node.js"
+      - "TypeScript"
+      - "MongoDB"
+      - "GraphQL"
+    highlights:
+      - "Built real-time collaboration features serving 10K+ users"
+      - "Improved application performance by 40%"
+      - "Implemented comprehensive testing suite with 85% coverage"
+
+  - company: "Digital Creators Agency"
+    role: "Junior Developer"
+    period: "Jun 2019 - Feb 2021"
+    location: "Austin, TX"
+    description: "Started career building responsive websites and web applications for clients. Gained experience in full development lifecycle from requirements to deployment."
+    technologies:
+      - "JavaScript"
+      - "Python"
+      - "Django"
+      - "HTML/CSS"
+      - "Git"
+    highlights:
+      - "Delivered 15+ client projects on time and within budget"
+      - "Implemented responsive designs achieving 98% cross-browser compatibility"
+      - "Participated in agile development process"
+

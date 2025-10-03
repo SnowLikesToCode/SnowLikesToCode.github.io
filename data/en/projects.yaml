@@ -1,0 +1,96 @@
+projects:
+  - title: "CloudDeploy - Automated Deployment Platform"
+    description: "Open-source platform for automating application deployments to multiple cloud providers. Features include zero-downtime deployments, rollback capabilities, and comprehensive monitoring."
+    technologies:
+      - "Go"
+      - "Kubernetes"
+      - "Docker"
+      - "Terraform"
+      - "GitHub Actions"
+    link: "https://github.com/SnowLikesToCode/clouddeploy"
+    demo: "https://clouddeploy-demo.example.com"
+    image: "/images/project_light.png"
+    highlights:
+      - "500+ GitHub stars"
+      - "Used by 50+ companies in production"
+      - "Supports AWS, GCP, and Azure"
+    date: "2024"
+
+  - title: "DevTools Suite - Developer Productivity Tools"
+    description: "Collection of CLI tools and utilities designed to boost developer productivity. Includes code generators, project scaffolding, and automated testing helpers."
+    technologies:
+      - "Rust"
+      - "CLI"
+      - "WebAssembly"
+      - "Node.js"
+    link: "https://github.com/SnowLikesToCode/devtools-suite"
+    image: "/images/project_dark.png"
+    highlights:
+      - "10K+ weekly downloads on npm"
+      - "Featured in DevTools Weekly newsletter"
+      - "Cross-platform support (Windows, macOS, Linux)"
+    date: "2023"
+
+  - title: "RealTime Chat - WebSocket Chat Application"
+    description: "Full-featured real-time chat application with support for group chats, file sharing, and end-to-end encryption. Built with modern web technologies and scalable architecture."
+    technologies:
+      - "React"
+      - "Node.js"
+      - "Socket.io"
+      - "Redis"
+      - "PostgreSQL"
+    link: "https://github.com/SnowLikesToCode/realtime-chat"
+    demo: "https://chat-demo.example.com"
+    image: "/images/project_light.png"
+    highlights:
+      - "Supports 1000+ concurrent connections"
+      - "End-to-end encryption for privacy"
+      - "Mobile-responsive design"
+    date: "2023"
+
+  - title: "AI Code Assistant - VS Code Extension"
+    description: "Intelligent code completion and suggestion tool powered by machine learning. Helps developers write code faster with context-aware suggestions and refactoring tools."
+    technologies:
+      - "TypeScript"
+      - "Python"
+      - "TensorFlow"
+      - "VS Code API"
+    link: "https://github.com/SnowLikesToCode/ai-code-assistant"
+    image: "/images/project_dark.png"
+    highlights:
+      - "25K+ installs on VS Code marketplace"
+      - "4.5/5 star rating with 200+ reviews"
+      - "Supports 10+ programming languages"
+    date: "2022"
+
+  - title: "TaskMaster - Project Management CLI"
+    description: "Command-line interface for managing tasks and projects with Git integration. Perfect for developers who prefer terminal-based workflows."
+    technologies:
+      - "Python"
+      - "Click"
+      - "SQLite"
+      - "Git"
+    link: "https://github.com/SnowLikesToCode/taskmaster"
+    image: "/images/project_light.png"
+    highlights:
+      - "Integrates with GitHub Issues and Jira"
+      - "Offline-first with sync capabilities"
+      - "Customizable workflow templates"
+    date: "2022"
+
+  - title: "PortfolioHub - Developer Portfolio Template"
+    description: "Modern, responsive portfolio template built with Hugo. Features dark mode, multilingual support, and easy customization for developers to showcase their work."
+    technologies:
+      - "Hugo"
+      - "Tailwind CSS"
+      - "JavaScript"
+      - "GitHub Actions"
+    link: "https://github.com/SnowLikesToCode/portfoliohub"
+    demo: "https://portfoliohub-demo.example.com"
+    image: "/images/project_dark.png"
+    highlights:
+      - "Lightning-fast static site generation"
+      - "SEO optimized and accessible"
+      - "Easy GitHub Pages deployment"
+    date: "2024"
+
