@@ -1,2 +1,7 @@
 .DS_Store
 images/.DS_Store
+
+# Hugo build artifacts
+public/
+.hugo_build.lock
+resources/_gen/
