@@ -5,7 +5,7 @@
 <div class="w-full md:w-4/5 lg:w-3/5 mx-auto px-14 py-12">
     <!-- Hero Section -->
     {{ $authorData := index site.Data .Language.Lang "author" }}
-    {{ $author := cond (and $authorData $authorData.author) $authorData.author site.Params }}
+    {{ $author := cond (and $authorData (ne $authorData.author nil)) $authorData.author site.Params }}
     
     {{ with $author }}
     <section class="mb-16">
@@ -344,7 +344,7 @@
 
     <!-- Experience Section -->
     {{ $experienceData := index site.Data .Language.Lang "experience" }}
-    {{ $experience := cond (and $experienceData $experienceData.experience) $experienceData.experience site.Params.experience }}
+    {{ $experience := cond (and $experienceData (ne $experienceData.experience nil)) $experienceData.experience site.Params.experience }}
 
     {{ with $experience }}
     <section>
@@ -383,7 +383,7 @@
 
     <!-- Projects Section -->
     {{ $projectsData := index site.Data .Language.Lang "projects" }}
-    {{ $projects := cond (and $projectsData $projectsData.projects) $projectsData.projects site.Params.projects }}
+    {{ $projects := cond (and $projectsData (ne $projectsData.projects nil)) $projectsData.projects site.Params.projects }}
 
     {{ with $projects }}
     <section class="mt-12 md:mt-20 mb-12 md:mb-20">
@@ -431,7 +431,7 @@
 
     <!-- Blog Section -->
     {{ $blogsData := index site.Data .Language.Lang "blogs" }}
-    {{ $blogs := cond (and $blogsData $blogsData.blogs) $blogsData.blogs site.Params.blogs }}
+    {{ $blogs := cond (and $blogsData (ne $blogsData.blogs nil)) $blogsData.blogs site.Params.blogs }}
     
     {{ with $blogs }}
     <section class="mt-20 mb-20">
