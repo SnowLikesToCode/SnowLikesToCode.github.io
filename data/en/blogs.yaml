@@ -1,0 +1,21 @@
+blogs:
+  - title: "Getting Started with Hugo: A Modern Static Site Generator"
+    summary: "Learn how to build lightning-fast websites with Hugo, the world's fastest static site generator. This comprehensive guide covers installation, theming, and deployment."
+    date: "October 1, 2025"
+    link: "/en/blogs/getting-started-with-hugo/"
+    tags:
+      - "hugo"
+      - "web-development"
+      - "tutorial"
+      - "static-sites"
+
+  - title: "Understanding Git Workflow: A Practical Guide for Developers"
+    summary: "Master Git workflows with this practical guide covering branching strategies, pull requests, and collaborative development best practices used by professional teams."
+    date: "September 28, 2025"
+    link: "/en/blogs/understanding-git-workflow/"
+    tags:
+      - "git"
+      - "version-control"
+      - "workflow"
+      - "best-practices"
+

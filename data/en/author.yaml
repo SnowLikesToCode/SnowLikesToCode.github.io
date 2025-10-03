@@ -1,0 +1,13 @@
+author:
+  name: "Snow"
+  location: "San Francisco, CA"
+  description: "Software Engineer & Open Source Enthusiast. Building cool stuff with code."
+  profile_image: "/images/profile.jpg"
+  email: "snow@example.com"
+  github: "https://github.com/SnowLikesToCode"
+  github_username: "SnowLikesToCode"
+  linkedin: "https://linkedin.com/in/snowlikestocode"
+  linkedin_username: "snowlikestocode"
+  twitter: "https://twitter.com/snowcodes"
+  twitter_username: "snowcodes"
+
